@@ -1,28 +1,20 @@
-# Skills
-
-* Node.js: Language for creating scalable applications.
-
-* React: Library for creating user interfaces.
-
-* SQL: Language for managing relational databases.
-
-* JavaScript: Language for creating interactive web sites.
-
-* Docker: Platform for developing, deploying, and running applications in containers.
-
-* PHP: Language for creating dynamic web sites.
-
-* Web: Development of frontend and backend web applications.
-
-* Nginx: System for version control, deployment, and server management.
-
-* Electron.js: Framework for creating cross-platform applications.
-
-* Python: Language for creating web applications and scientific computing.
-
-* C, C++, and ASM: Languages for developing high-performance applications and systems.
-
-<!---
-nickdevcomp/nickdevcomp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+            .-/+oossssoo+/-.
+        `:+ssssssssssssssssss+:`           root@whoami
+      -+ssssssssssssssssssyyssss+-         --------------
+    .ossssssssssssssssssdMMMNysssso.       OS: Ubuntu 22.04.5 LTS x86_64
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Host: KVM RHEL 7.6.0 PC (i440FX + PIIX, 1996)
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Kernel: 5.15.0-125-generic
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Uptime: 14 days, 5 hours, 6 mins
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Packages: 696 (dpkg)
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Shell: bash 5.1.16
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Resolution: 1024x768
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   Terminal: /dev/pts/8
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   CPU: QEMU Virtual version 2.5+ (32) @ 3.393GHz
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   GPU: 00:02.0 Cirrus Logic GD 5446
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/
+  +sssssssssdmydMMMMMMMMddddyssssssss+
+   /ssssssssssshdmNNNNmyNMMMMhssssss/
+    .ossssssssssssssssssdMMMNysssso.
+      -+sssssssssssssssssyyyssss+-
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.
